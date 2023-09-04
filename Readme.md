@@ -5,7 +5,7 @@ This project implements a reinforcement learning algorithm, Q-Learning, to train
 ## Introduction  
 
 
-![Alt text] ('')
+![Alt text] ('snake.png')
   
 The Snake Game AI is a fundamental reinforcement learning project using Q-Learning. The project aims to train an AI agent to play the game of Snake. The agent learns the game through trial and error, deciding whether to exploit learned strategies or explore new ones. This project is an excellent example of how AI can learn and improve over time.  
   
